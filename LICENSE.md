@@ -1,4 +1,4 @@
-# 
+# Advanced DaVinci Resolve for PC scripts is the best DaVinci Resolve for PC scripts with batch-processing and collaboration-tools. Safe, reliable, and optimized for maximum
 
 
 
